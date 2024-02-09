@@ -27,7 +27,7 @@ namespace Project_Euler
                     i += k;
                 }
             }
-            Console.WriteLine(i);
+            Console.WriteLine($"The total sum is {i}");
         }
     }
 }

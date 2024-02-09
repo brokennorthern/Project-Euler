@@ -19,7 +19,7 @@ namespace Project_Euler
                     i += j;
                 }
             }
-            Console.WriteLine(i);
+            Console.WriteLine($"The total sum is {i}");
         }
     }
 }
