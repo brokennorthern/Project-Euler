@@ -11,7 +11,7 @@ namespace Project_Euler
         static void Main()
         {
             var sw = new System.Diagnostics.Stopwatch();
-            var problem = new Problem7();
+            var problem = new Problem9();
             
             Console.WriteLine($"Execution time: {sw.Elapsed}"); 
         }
